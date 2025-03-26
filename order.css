@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.order-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+tr{
+    width: 100%;
+    padding: 30px;
+    border: 1px solid black;
+}
+th{
+    width: 200px;
+    letter-spacing: 0.6px;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+}
